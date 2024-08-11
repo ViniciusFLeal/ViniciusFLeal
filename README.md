@@ -1,16 +1,36 @@
-## Hi there 👋
+## Olá eu sou o VINICIUS 👋
 
-<!--
-**ViniciusFLeal/ViniciusFLeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Consegui minha sonhada transição de carreira para a área de tecnologia...atraves de um amigo consegui uma oportunidade para atuar no time de analytics da empresa...porem comecei a atuar tambem no time de qualidade e acabei gostando e me identificando, e agora pretendo seguir minha carreira em qualidade de software. 
 
-Here are some ideas to get you started:
+- 🌱 Atualmente meus estudos estão voltados para a area de qualidade de software...então estudei: postman, Git, metodologias ágeis, BDD, Gherkin e cypress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Aceito conselhos de pessoas que queiram colaborar com meu conhecimento e desenvolvimento profissional...
+
+- 📫 Como entrar em contato comigo: viniciusfleal@gmail.com
+
+  🏆 🎮 ⚡️ 🧠   
+
+<br>
+
+### Frameworks
+---
+
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)]()  [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+
+<br>
+
+### IDE
+---
+
+[![vs Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]() 
+<br>
+
+### Linguagens de Progração
+---
+
+[![Javascritp](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]() 
+
+
+<br> 
+
+
