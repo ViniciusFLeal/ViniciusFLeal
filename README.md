@@ -1,6 +1,6 @@
 ## Olá eu sou o VINICIUS 👋
 
-- 🔭 Consegui minha sonhada transição de carreira para a área de tecnologia, através de um amigo consegui uma oportunidade para atuar no time de analytics da empresa...porém comecei a atuar também no time de qualidade e acabei gostando e me identificando, e agora pretendo seguir minha carreira em qualidade de software. 
+- 🔭 Consegui minha sonhada transição de carreira para a área de tecnologia, consegui uma oportunidade para atuar no time de analytics de uma empresa...porém comecei a atuar também no time de qualidade e acabei gostando e me identificando, e agora pretendo seguir minha carreira em qualidade de software. 
 
 - 🌱 Atualmente meus estudos estão voltados para a area de qualidade de software...então estudei: postman, Git, metodologias ágeis, BDD, Gherkin e Cypress e Robot framework.
 
