@@ -11,8 +11,7 @@
 - 🏆 🎮🌱⚡️ Gosto de viajar, ver filmes e series, jogar futebol e video game....e fazer churrasco kkk
 
 - 📫 Para entrar em contato comigo: 
-Linkedin: linkedin.com/in/viniciusferreiraleal 
-Email: viniciusfleal@gmail.com
+Linkedin: linkedin.com/in/viniciusferreiraleal  ou  Email: viniciusfleal@gmail.com
 
 <br>
 
