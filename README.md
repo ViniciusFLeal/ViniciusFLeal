@@ -1,16 +1,18 @@
 ## Olá eu sou o VINICIUS 👋
 
-- 🔭 Consegui minha sonhada transição de carreira para a área de tecnologia, consegui uma oportunidade para atuar no time de analytics de uma empresa...porém comecei a atuar também no time de qualidade e acabei gostando e me identificando, e agora pretendo seguir minha carreira em qualidade de software. 
+- 🔭 Consegui minha sonhada transição de carreira para a área de tecnologia, minha primeira oportunidade era para atuar no time de analytics de uma empresa...porém comecei a atuar também no time de qualidade e acabei gostando e me identificando, e agora pretendo seguir minha carreira em qualidade de software. 
 
-- 🌱 Atualmente meus estudos estão voltados para a area de qualidade de software...então estudei: postman, Git, metodologias ágeis, BDD, Gherkin e Cypress e Robot framework.
+- 🧠 Atualmente meus estudos estão voltados para a area de qualidade de software...então estudei: postman, Git, metodologias ágeis, BDD, Gherkin, Cypress e Robot framework.
 
 - 🧠 Em Fevereiro de 2025 comecei o Curso Tecnico de Quality assurance na escola QA.CODERS com termino previsto em dezembro do mesmo ano..isso caso eu passe em todas as provas kk.
 
-- 😄 Aceito conselhos de pessoas que queiram colaborar com meu conhecimento e desenvolvimento profissional...
+- 😄 Aceito conselhos de pessoas que queiram colaborar com meu conhecimento e desenvolvimento profissional.
 
-- 📫 Como entrar em contato comigo: viniciusfleal@gmail.com
+- 🏆 🎮🌱⚡️ Gosto de viajar, ver filmes e series, jogar futebol e video game....e fazer churrasco kkk
 
-  🏆 🎮 ⚡️    
+- 📫 Para entrar em contato comigo: 
+Linkedin: linkedin.com/in/viniciusferreiraleal 
+Email: viniciusfleal@gmail.com
 
 <br>
 
