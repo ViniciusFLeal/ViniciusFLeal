@@ -1,8 +1,8 @@
 ## Olá eu sou o VINICIUS 👋 
 
-- 🔭 Consegui a sonhada transição de carreira para a área de tecnologia, minha primeira oportunidade era para atuar no time de analytics de uma empresa depois de estar estudando quase 1 ano...porém comecei a atuar também no time de qualidade e acabei gostando e me identificando, e agora pretendo seguir minha carreira em qualidade de software. 
-
-- 🧠 Atualmente meus estudos estão voltados para a area de qualidade de software...então estudei: postman, Git, metodologias ágeis, BDD, Gherkin, Cypress e Robot framework.
+- 🔭 Depois de mais de 10 anos atuando na industria, realizei minha transição de carreira para Qualidade de software em 2023, conheci a area após analisar para o que eu iria migrar e acabei gostando e me identificando.
+  
+- 🧠 Atualmente meus estudos estão voltados para a area de qualidade de software...então estudei:  metodologias ágeis, BDD, Gherkin, Cypress, API, postman, Git e JavaScript.
 
 - 🧠 Em Fevereiro de 2025 comecei o Curso Tecnico de Quality assurance na escola QA.CODERS com termino previsto em dezembro do mesmo ano..conhecimento em JS, azuredevops, github actions, robotframeworks, tecnicas e conceitos de qualidade.
 - 🧠 Em Maio de 2025 comecei a Mentoria com Julio de Lima, na mentoria terei mais conhecimento em Logica de programação, JavaScript , Postamn, Zephyr, Jira, Cucumber, K6, Jmeter, , Selenium, cypress e playwright.
