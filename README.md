@@ -1,8 +1,8 @@
 ## Olá eu sou o VINICIUS 👋 
 
-- 🔭 Depois de mais de 10 anos atuando na industria, em 2023 resolvi fazer a migração de carreira para tecnologia e escolhi Qualidade de software após participar de algumas palestras e cursos sobre o assunto.
+- 🔭 Depois de mais de 10 anos atuando na industria, em 2023 resolvi fazer a migração de carreira para tecnologia e escolhi Qualidade de software.
   
-- 🧠 Atualmente meus estudos estão voltados para:  metodologias ágeis, BDD, Gherkin, Cypress, API, postman, Git e JavaScript.
+- 🧠 Atualmente meus estudos estão voltados para:  metodologias ágeis, Cypress, API, postman, performance, Git e JavaScript.
 
 - 🧠 Em Fevereiro de 2025 comecei o Curso Tecnico de Quality assurance na escola QA.CODERS com termino previsto em dezembro do mesmo ano..conhecimento em JS, azuredevops, github actions, robotframeworks, tecnicas e conceitos de qualidade.
 - 🧠 Em Maio de 2025 comecei a Mentoria com Julio de Lima, na mentoria terei mais conhecimento em Logica de programação, JavaScript , Postamn, Zephyr, Jira, Cucumber, K6, Jmeter, , Selenium, cypress e playwright.
